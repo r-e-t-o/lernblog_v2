@@ -1,8 +1,10 @@
 +++
-title = "CSS Frameworks zu Hilfe!"
+title = "CSS Frameworks machen Webprogrammierung gesellschaftsfähig"
 date = "2022-11-15"
 draft = false
 pinned = false
+tags = ["HTML", "CSS", "web technologien"]
+description = "Web-Programmierung ist nicht mehr nur etwas für \"Nerds\", sondern ein Werkzeug für eine breitere Gruppe von Berufen. I﻿ch sehe auch bei den Lernenden mit mehr Kontaktscheue vor HTML, CSS und Co., dass sie dank den heute verfügbaren Frameworks auch in den gestalterischen Flow kommen!"
 +++
 Bis vor ein paar Jahren war es ein ziemliches Gebastel, eine Website responsive, rückwärtskompatibel mit älteren Browsern UND HÜBSCH zu gestalten. Speziell gruselig konnte es werden, wenn Du mehrere Libraries oder Frameworks parallel einsetzen wolltest (z.B. eines für CSS Reset = die vordefinierten Styles des Browsers zurücksetzen, eines für Formulare, eines für ein Bilderkarussell und ein letztes für Animationen von Seitenelementen), da sich die Libraries untereinander dazwischenfunkten.
 

@@ -8,9 +8,12 @@ Bis vor ein paar Jahren war es ein ziemliches Gebastel, eine Website responsive,
 
 H﻿eute gibt es zwar eine verwirrende Vielfalt an unterschiedlichen Philosophien bezüglich CSS Frameworks (z.B. Tailwind vs. Bootstrap) aber dafür sind die verbreitetsten so ausgereift, dass mit wenig Linien HTML die ganze Webseite aufgehübscht werden kann. Dank den Frameworks ist heute nun auch ohne Content Management System möglich, sich auf den Inhalt und die kreative Gestaltung einer Webseite zu konzentrieren statt auf die technischen Basics.
 
-D﻿as macht es für den Unterricht zum Thema HTML/CSS viel spannender, da schon in kurzer Zeit der Schritt von Basis-HTML/CSS zu ansprechend animierten responsiven Webseiten möglich ist. Das Erfolgserlebnis ist für die Lernenden viel schneller da, und sie können schnell zu den spannenderen Dingen übergehen, wie animierte Elemente, Optimierung der Nutzenden-Führung, ein Bindung von Webapp-Code usw.
-
-
 D﻿amit ist Web-Programmierung nicht mehr nur etwas für "Nerds", sondern ein Werkzeug für eine breitere Gruppe von Berufen. Nicht nur Programmierende, sondern auch Kaufleute, grafikschaffende und publizierende können sich heute direkt den Webtechnologien bedienen, um spezifische Webauftritte zu realisieren, die mit den gängigen CMS (allen voran Wordpress) oder den Online-Webseiten-Tool (wix, Jimdo, weebly, ...) schnell mal an die Grenzen der individuellen Gestaltung stossen.
 
-I﻿ch sehe im Unterricht: Es ist nicht allen gegeben, sich mit der abstrakten Basis von HTML und CSS schnell anzufreunden - und doch sehe ich auch bei den Lernenden mit mehr Kontaktscheue, dass sie schneller und es ist ein perfekter Einstieg in 
+D﻿as macht es für den Unterricht zum Thema HTML/CSS viel spannender, da schon in kurzer Zeit der Schritt von Basis-HTML/CSS zu ansprechend animierten responsiven Webseiten möglich ist. Das Erfolgserlebnis ist für die Lernenden viel schneller da, und sie können schnell zu den spannenderen Dingen übergehen, wie animierte Elemente, Optimierung der Nutzenden-Führung, ein Bindung von Webapp-Code usw.
+
+I﻿ch sehe im Unterricht: Es ist nicht allen gleichermassen gegeben, sich mit der abstrakten Basis von HTML und CSS anzufreunden - und doch sehe ich auch bei den Lernenden mit mehr Kontaktscheue, dass sie dank den verfügbaren Frameworks, die einem die technische Handarbeit abnehmen, auch in den gestalterischen Flow kommen.
+
+**L﻿iebe Lernende, beisst euch durch die abstrakten Basics der Webtechnologien, denn heute ist es möglich, sehr schnell in die Welt der professionellen Webgestaltung einzusteigen, ohne gleich ein Webprogrammier-Studium zu absolvieren!**
+
+E﻿ine Sammmlung von CSS Frameworks findest Du in meinem nächsten Lernblog-Eintrag.
